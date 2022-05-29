@@ -1,0 +1,24 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "client": "^0.0.1",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "node": "^17.7.2",
+    "node-abort-controller": "^3.0.1",
+    "pnpm": "^7.1.6",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "dc-code",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marc Wu 531",
+  "license": "ISC",
+  "description": ""
+}
